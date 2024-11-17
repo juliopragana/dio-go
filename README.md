@@ -1,1 +1,1 @@
-Repositórios dos Cursos da DIO
+Repositórios Curso Go - DIO
